@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FFE5E5; /* Warm Pink Background */
+    color: #333; /* Dark text color */
+}
+
+header {
+    background-color: #FFC0CB; /* Warm Pink Header */
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333; /* Dark text color */
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #FF69B4; /* Darker shade of Pink */
+}
+
+nav ul li a:hover {
+    background-color: #FF1493; /* Even darker shade of Pink on hover */
+}
+
+.content {
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #FF69B4; /* Darker shade of Pink for Heading */
+}
+
+p {
+    color: #FF1493; /* Darker shade of Pink for Paragraph */
+}
